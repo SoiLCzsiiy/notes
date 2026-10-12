@@ -1,1 +1,5 @@
 # notes
+## Links
+- [D2L](https://learn.georgebrown.ca)
+- [Atklass](https://app.atklass.com)
+- [Important Dates](https://www.georgebrown.ca/current-students/important-dates)
